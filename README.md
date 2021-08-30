@@ -1,6 +1,4 @@
-Big Data, The Self and Social Platforms
-
-My project is a internet culture themed and involves a bot that creates an discord poltical 'echo chamber'.
+My project is an internet culture themed and involves a bot that creates an discord political 'echo chamber'.
 
 Tools used 
 - IFFTTT
@@ -10,5 +8,6 @@ Table of contents
 - Project Context, The internet culture wars
 - Research
 - Ideas
-- Bot delevopment
+- Bot development
 - Final outcome
+
