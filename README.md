@@ -13,5 +13,5 @@ Table of contents
 - Bot development
 - Final outcome
 
-The reason my PDF is longer, is due to me combining my project outcomes with my documentation. 
+The reason my PDF is longer, is due to me combining my documentation with my project outcomes / screenshots. 
 
